@@ -68,7 +68,7 @@ ul li{
   justify-content: flex-end;
 }
 
-@media only screen and (max-width: 1024px) and (min-width: 500px){
+@media only screen and (max-width: 1024px;){
   nav.container{
     max-width: 100%;
   }
@@ -84,7 +84,7 @@ ul li{
   }
 }
 
-@media screen only and (max-width: 500px) and (min-width: 300px){
+@media only screen and (max-width: 550px){
   .desktop{
     display: none;
   }
@@ -104,5 +104,5 @@ ul li{
 
 .container{
   max-width: 100%;
-}
+  }
 }

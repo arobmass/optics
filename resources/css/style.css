@@ -68,23 +68,11 @@ ul li{
   justify-content: flex-end;
 }
 
-@media only screen and (max-width: 1024px;){
-  nav.container{
-    max-width: 100%;
-  }
-  header{
-    padding-top: 0;
-    height: 22rem;
-  }
-  .banner{
-    margin-top: 5rem;
-    padding: 0.75rem 4rem;
-    font-size: 1.33rem;
-    margin-right: 2rem;
-  }
+
 }
 
 @media only screen and (max-width: 550px){
+
   .desktop{
     display: none;
   }
